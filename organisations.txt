@@ -1,0 +1,5 @@
+Paris www.paris.edu.fr 145.78.35.6 4991
+sihag www.sihag.com 544.43.657.3 3342
+pscInc www.pscinc.com 182.12.23.2 2133
+Melbourne www.melbourne.edu.au 199.45.12.3 1245
+demoServer www.demoServer.com 198.176.154.23 1000
